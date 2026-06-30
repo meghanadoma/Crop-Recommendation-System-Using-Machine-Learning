@@ -1,0 +1,15 @@
+Crop: chickpea
+Crop: papaya
+Crop: coffee
+Crop: banana
+Crop: pigeonpeas
+Crop: banana
+Crop: papaya
+Crop: pigeonpeas
+Crop: papaya
+Crop: papaya
+Crop: papaya
+Crop: pigeonpeas
+Crop: chickpea
+Crop: coffee
+Crop: muskmelon
