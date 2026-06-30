@@ -36,6 +36,7 @@ This project recommends the most suitable crop based on soil and environmental c
 - `sample_output.png` – Sample output
 ## Sample Output
 The system displays:
+![Sample Output](sample_output.png)
 - Recommended Crop
 - Prediction Confidence
 - Soil Status
